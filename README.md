@@ -27,14 +27,14 @@ for .sql file
 <br><br><br><br>
 ************
 Logins:<br><br>
-Admin :<br>
+<b>Admin :</b><br>
   username : jehan<br>
   password : 123 <br>
   
   <br><br>
 Uesr :<br>
 ***
-  user1 :<br>
+ <b>user1 :</b><br>
     username : jehan<br>
     password : 123 <br>
     
