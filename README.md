@@ -35,13 +35,13 @@ Logins:<br><br>
 Uesr :<br>
 ***
  <b>user1 :</b><br>
-    username : jehan<br>
-    password : 123 <br>
+    username : nimal<br>
+    password : 456 <br>
     
    <br><br>
     <b>user1 :</b><br>
-    username : jehan<br>
-    password : 123 <br>
+    username : kamal<br>
+    password : 789 <br>
 
 Manager :<br>
 ***
