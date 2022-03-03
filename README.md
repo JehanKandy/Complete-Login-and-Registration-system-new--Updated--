@@ -41,7 +41,7 @@ Uesr :<br>
    <br><br>
     <b>User 2 :</b><br>
     username : kamal<br>
-    password : 789 <br>
+    password : 789 <br><br><br>
 
 Manager :<br>
 ***
@@ -52,7 +52,7 @@ Manager :<br>
    <br><br>
     <b>Manager 2 :</b><br>
     username : some<br>
-    password : 852 <br>
+    password : 852 <br><br><br>
 Employee :<br>
 ***
  <b>Employee 1:</b><br>
