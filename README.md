@@ -7,6 +7,8 @@ Complete Login and Registration system using HTML, CSS, JAVASCRIPT, BOOTSTRAP, P
 all files must be in same folder.<br>
 otherwise system does not working<br>
 
+
+****************************
 for .sql file
 <br>
 1. run xampp server<br>
