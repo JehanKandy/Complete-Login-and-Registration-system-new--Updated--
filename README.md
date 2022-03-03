@@ -55,14 +55,14 @@ Manager :<br>
     password : 123 <br>
 Employee :<br>
 ***
- <b>user1 :</b><br>
-    username : jehan<br>
-    password : 123 <br>
+ <b>Employee 1:</b><br>
+    username : kamala<br>
+    password : 963 <br>
     
    <br><br>
-    <b>user1 :</b><br>
-    username : jehan<br>
-    password : 123 <br>
+    <b>Employee 2 :</b><br>
+    username : nimali<br>
+    password : 321 <br>
 
 **************************
 
