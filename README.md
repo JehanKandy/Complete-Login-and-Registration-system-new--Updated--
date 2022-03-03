@@ -45,14 +45,14 @@ Uesr :<br>
 
 Manager :<br>
 ***
- <b>user1 :</b><br>
-    username : jehan<br>
-    password : 123 <br>
+ <b>Manager 1 :</b><br>
+    username : amara<br>
+    password : 741 <br>
     
    <br><br>
-    <b>user1 :</b><br>
-    username : jehan<br>
-    password : 123 <br>
+    <b>Manager 2 :</b><br>
+    username : some<br>
+    password : 852 <br>
 Employee :<br>
 ***
  <b>Employee 1:</b><br>
