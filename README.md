@@ -34,12 +34,12 @@ Logins:<br><br>
   <br><br>
 Uesr :<br>
 ***
- <b>user1 :</b><br>
+ <b>User 1 :</b><br>
     username : nimal<br>
     password : 456 <br>
     
    <br><br>
-    <b>user1 :</b><br>
+    <b>User 2 :</b><br>
     username : kamal<br>
     password : 789 <br>
 
