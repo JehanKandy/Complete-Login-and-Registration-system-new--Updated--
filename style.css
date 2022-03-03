@@ -1,0 +1,204 @@
+    @import url('https: //fonts.googleapis.com/css2?family=League+Gothic&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+    * {
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        outline: none;
+        border: none;
+        text-decoration: none;
+    }
+    
+    table {
+        border: 1;
+        border-radius: 5px;
+    }
+    
+    p {
+        margin-top: 10px;
+        font-size: 15px;
+        color: #333;
+    }
+    
+    p a {
+        color: rgba(0, 155, 0, 0.68);
+    }
+    
+    .container {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        padding-bottom: 60px;
+    }
+    
+    .container .content {
+        text-align: center;
+    }
+    
+    .container .content legend {
+        font-size: 30px;
+        color: #333;
+    }
+    
+    .form-container {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        padding-bottom: 60px;
+        background: #eee;
+    }
+    
+    .icon {
+        margin-left: 10px;
+        padding-top: 10px;
+        color: black;
+    }
+    
+    .icon:hover {
+        color: red;
+    }
+    
+    .form-container form {
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+        background: #fff;
+        text-align: center;
+        width: 500px;
+    }
+    
+    .form-container form input,
+    .form-container form select {
+        width: 100%;
+        padding: 10px 15px;
+        font-size: 17px;
+        margin: 8px 0;
+        background: #eee;
+        border-radius: 5px;
+    }
+    
+    .form-container form select option {
+        background: #fff;
+    }
+    
+    .form-container form .submit {
+        background: #9cda9f;
+        color: rgba(0, 155, 0, 0.68);
+        text-transform: capitalize;
+        font-size: 20px;
+        cursor: pointer;
+        width: 40%;
+    }
+    
+    .form-container form .submit:hover {
+        background: rgba(0, 155, 0, 0.68);
+        color: #fff;
+    }
+    
+    .form-container form .reset {
+        background: #cfcfcf;
+        color: rgba(142, 146, 142, 0.68);
+        text-transform: capitalize;
+        font-size: 20px;
+        cursor: pointer;
+        width: 40%;
+    }
+    
+    .form-container form .reset:hover {
+        background: rgba(142, 146, 142, 0.68);
+        color: #fff;
+    }
+    
+    .form-container form p {
+        margin-top: 10px;
+        font-size: 15px;
+        color: #333;
+    }
+    
+    .form-container form p a {
+        color: rgba(0, 155, 0, 0.68);
+    }
+    
+    .form-container form .login-submit {
+        background: #9cda9f;
+        color: rgba(0, 155, 0, 0.68);
+        text-transform: capitalize;
+        font-size: 20px;
+        cursor: pointer;
+        width: 40%;
+    }
+    
+    .form-container form .login-submit:hover {
+        background: rgba(0, 155, 0, 0.68);
+        color: #fff;
+    }
+    
+    .form-container form .error {
+        margin: 10px 0;
+        display: block;
+        background: rgba(255, 0, 0, 0.57);
+        color: white;
+        border-radius: 10px;
+        font-size: 20px;
+        padding: 10px;
+    }
+    
+    .logout {
+        background: #c0e5f7;
+        color: rgba(0, 89, 255, 0.68);
+        text-transform: capitalize;
+        font-size: 20px;
+        cursor: pointer;
+        width: 40%;
+        border-radius: 10px;
+    }
+    
+    .logout:hover {
+        background: rgba(0, 89, 255, 0.68);
+        color: #fff;
+    }
+    
+    .box1 {
+        margin-top: 15px;
+        margin-left: 15px;
+        width: 300px;
+        height: 100px;
+        border: none;
+        background-color: rgb(17, 180, 17);
+        border-radius: 10px;
+    }
+    
+    .box1 p {
+        padding-top: 10px;
+        padding-left: 10px;
+        font-family: 'League Gothic', sans-serif;
+        font-size: 100%;
+        color: white;
+    }
+    
+    .box1 .icon {
+        padding-left: 180px;
+        padding-top: 0px;
+    }
+    
+    .box1:hover {
+        margin-top: 15px;
+        margin-left: 15px;
+        width: 300px;
+        height: 101px;
+        border: none;
+        background-color: rgb(17, 180, 17);
+        border-radius: 10px;
+        box-shadow: 5px 10px 18px #888888;
+        color: white;
+    }
+    
+    span {
+        border: none;
+        background-color: rgb(15, 179, 15);
+        border-radius: 10px;
+    }
