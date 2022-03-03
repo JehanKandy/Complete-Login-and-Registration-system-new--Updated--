@@ -43,6 +43,26 @@ Uesr :<br>
     username : jehan<br>
     password : 123 <br>
 
+Manager :<br>
+***
+ <b>user1 :</b><br>
+    username : jehan<br>
+    password : 123 <br>
+    
+   <br><br>
+    <b>user1 :</b><br>
+    username : jehan<br>
+    password : 123 <br>
+Employee :<br>
+***
+ <b>user1 :</b><br>
+    username : jehan<br>
+    password : 123 <br>
+    
+   <br><br>
+    <b>user1 :</b><br>
+    username : jehan<br>
+    password : 123 <br>
 
 **************************
 
