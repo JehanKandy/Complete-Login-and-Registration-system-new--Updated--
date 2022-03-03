@@ -26,6 +26,19 @@ for .sql file
 
 <br><br><br><br>
 ************
+Logins:<br><br>
+Admin :<br>
+  username : jehan<br>
+  password : 123 <br>
+  
+  <br><br>
+Uesr :<br>
+  user1 :<br>
+    username : jehan<br>
+    password : 123 <br>
+
+
+**************************
 
 Thank you <br>
 Developed By := JehanKandy
