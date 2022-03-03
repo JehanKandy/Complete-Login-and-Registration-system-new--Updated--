@@ -105,7 +105,7 @@
                             <option value="manager">Manager</option>
                             <option value="employee">Employee</option>
                             <option value="user">User</option>
-                            <option value="admin">Admin</option>                            
+                            <option value="admin" disabled>Admin</option>                            
                         </select>
                         <p>
                             Already have an accout? <a href="login.php">Login</a>
