@@ -95,7 +95,7 @@
                             <option value="manager">Manager</option>
                             <option value="employee">Employee</option>
                             <option value="user">User</option>
-                            <option value="admin">Admin</option>                            
+                            <option value="admin" disabled>Admin</option>                            
                         </select>
                         <p color="red">
                                 You Account Activate within 24 hours  
