@@ -2,6 +2,14 @@
 Complete Login and Registration system using HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP and MYSQL
 <br>
 
+---Updated---<br>
+someone cretaed an account, user or manager or employee <br>
+he or she wait for 24 hours or contact admin to activate his or her account<br><br>
+
+
+-------------<br>
+<br>
+
 ********important*********
 
 all files must be in same folder.<br>
