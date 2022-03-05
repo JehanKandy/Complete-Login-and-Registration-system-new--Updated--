@@ -4,7 +4,7 @@ Complete Login and Registration system using HTML, CSS, JAVASCRIPT, BOOTSTRAP, P
 
 <b>---Updated---</b><br>
 someone cretaed an account, user or manager or employee <br>
-he or she wait for 24 hours or contact admin to activate his or her account<br><br>
+he or she should contact admin to activate his or her account<br><br>
 
 
 <b>-------------</b><br>
