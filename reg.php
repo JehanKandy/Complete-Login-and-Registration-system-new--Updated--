@@ -31,37 +31,27 @@
                 }
                 else{
                     //insert data to database
-                    $sql2 = "INSERT INTO user_tbl(username,email,pass,user_type,user_status) VALUES('$new_user','$new_email','$pass','$user_type','1')";
-                    $result2 = mysqli_query($con, $sql2);
-
-                    if(!$result2){
-                        $error[] = "ERROR";
-                    }else{
-                        if($user_type == 'admin'){
+                    if($user_type == 'admin'){
+                            $sql2 = "INSERT INTO user_tbl(username,email,pass,user_type,user_status) VALUES('$new_user','$new_email','$pass','$user_type','1')";
+                            $result2 = mysqli_query($con, $sql2);
+                            
                             setcookie('loginDemo',$user,time()+60*60);
                             $_SESSION['login'] =  $user;
                             header("location:admin.php");
                         }
-                        else if($user_type == 'manager'){
+                        else{
+                            $sql3 = "INSERT INTO user_tbl(username,email,pass,user_type,user_status) VALUES('$new_user','$new_email','$pass','$user_type','0')";
+                            $result3 = mysqli_query($con, $sql3);
+
                             setcookie('loginDemo',$user,time()+60*60);
                             $_SESSION['login'] =  $user;
-                            header("location:manager.php");
-                        }
-                        else if($user_type == 'user'){
-                            setcookie('loginDemo',$user,time()+60*60);
-                            $_SESSION['login'] =  $user;
-                            header("location:user.php");
-                        }
-                        else if($user_type == 'employee'){
-                            setcookie('loginDemo',$user,time()+60*60);
-                            $_SESSION['login'] =  $user;
-                            header("location:employee.php");
+                            header("location:login.php");
                         }
                     }                    
                 }
             }
         }
-    }
+    
 ?>
 
 
@@ -105,8 +95,11 @@
                             <option value="manager">Manager</option>
                             <option value="employee">Employee</option>
                             <option value="user">User</option>
-                            <option value="admin" disabled>Admin</option>                            
+                            <option value="admin">Admin</option>                            
                         </select>
+                        <p color="red">
+                                You Account Activate within 24 hours  
+                        </p>
                         <p>
                             Already have an accout? <a href="login.php">Login</a>
                         </p>
